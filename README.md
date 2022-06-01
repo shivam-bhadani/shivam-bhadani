@@ -1,4 +1,4 @@
-### Hi Geek!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi Geek!! 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=shivam-bhadani" alt = "shivam-bhadani" /> </p>
 
 - 👋 I’m @shivam-bhadani.
