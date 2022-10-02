@@ -11,8 +11,8 @@
 
 ### My Social Media Handles
 
-<a href="https://www.linkedin.com/in/shivambhadani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam bhadani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shivam28nov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam28nov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivambhadani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam bhadani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shivam28nov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam28nov" height="30" width="40" /></a>
   
 ### My Coding Profiles
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/Shivam28nov/)
