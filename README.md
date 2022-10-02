@@ -8,7 +8,13 @@
 - 📫 You can contact me through email - shivambhadani19@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-bhadani&show_icons=true&count_private=true&theme=radical"]</p>
+
+### My Social Media Handles
+
+<a href="https://www.linkedin.com/in/shivambhadani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam bhadani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shivam28nov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam28nov" height="30" width="40" /></a>
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivambhadani/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=whit" />](https://www.instagram.com/shivambhadani28/)
-[<img src="https://img.shields.io/badge/codeforces-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=whit" />](https://codeforces.com/profile/Shivam28nov/)
+### My Coding Profiles
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/Shivam28nov/)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/shivambhadani/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/shivambhadani123/practice/)
