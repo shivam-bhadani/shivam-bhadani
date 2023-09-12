@@ -1,10 +1,10 @@
 ### Hi Geek!! 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=shivam-bhadani" alt = "shivam-bhadani" /> </p>
 
-- 👋 I’m Shivam Bhadani, 3rd year Undergraduate at IIT Kanpur.
+- 👋 I’m Shivam Bhadani, 4th year Undergraduate at IIT Kanpur.
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
-- ⚡ Hobby - Watching anime
+- ⚡ Hobby - History, Politics, Movies, Anime
 - 📫 You can contact me through email - shivambhadani19@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-bhadani&show_icons=true&count_private=true&theme=radical"]</p>
